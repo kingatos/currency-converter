@@ -1,0 +1,31 @@
+html {
+    box-sizing: border-box;
+}
+    
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    flex: 0 1 auto;
+    align-items: center;
+    justify-content: center;
+    font-family: "Raleway", sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    color:hsl(180, 22%, 13%); 
+    font-size: 15px;
+    background-image: url("../background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2500px;
+}
+
+.main {
+    margin: auto;
+    max-width: 500px;
+    padding: 100px 0;
+}
+
+
+

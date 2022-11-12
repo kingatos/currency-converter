@@ -1,7 +1,7 @@
 # CURRENCY CONVERTER                                                
 - by kingatos. || **DEMO**  -> https://kingatos.github.io/currency-converter/
 ## PREVIEW
-![How to use](https://i.ibb.co/rdjmZy3/calculator-Currency.gif)
+![How to use](https://i.ibb.co/N7Ycg1Z/currency-Con.gif)
 ## DESTRIPTION
 - This simple currency converter allow to exchange currencies between to EUR-PLN-AUD-CHF-GBP-USD. Check it out!
 ## TECHNOLOGIES

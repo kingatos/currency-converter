@@ -1,5 +1,12 @@
 {
- 
+    const clearButtonResult = () => {
+        const clearButton = document.querySelector(".js-clearButton");
+
+        clearButton.addEventListener("click", () => {
+            document.getElementById("r").innerHTML="";
+        });
+    };
+    
     const convertAmountFromCurrency = (currencyFromElement) => {
         const currencyFrom = currencyFromElement.value;
 
@@ -53,12 +60,6 @@
         const currencyFromElement = document.querySelector(".js-currencyFrom");
         const currencyToElement = document.querySelector(".js-currencyTo");
         const resultElement = document.querySelector(".js-result");
-        const clearButton = document.querySelector(".js-clearButton");
-
-        clearButton.addEventListener("click", () => {
-            document.getElementById("r").innerHTML="";
-        });
-        
         const amount = amountElement.value;
         const resultCurrency = currencyToElement.value;
 
@@ -72,6 +73,7 @@
         formElement.addEventListener("submit",(event) => {
             event.preventDefault();
             onFormSubmit();
+            clearButtonResult();
         });
     };
 

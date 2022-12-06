@@ -1,4 +1,4 @@
-# CURRENCY CONVERTER                                                
+# CURRENCY CONVERTER 💷💶💵                                             
 - by kingatos. || **DEMO**  -> https://kingatos.github.io/currency-converter/
 ## PREVIEW
 ![How to use](https://i.ibb.co/yys9kTG/currency-Con.gif)

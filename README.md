@@ -7,7 +7,8 @@
 ## TECHNOLOGIES
 - HTML
 - CSS
-- JavaScript ES6+
+- javascript ES6+
 - BEM Convention
 - FLEX
-- Normalise.css
+- normalise.css
+- open graph

@@ -1,4 +1,4 @@
-# CURRENCY CONVERTER                                                
+# CURRENCY CONVERTER 💷💶💵                                             
 - by kingatos. || **DEMO**  -> https://kingatos.github.io/currency-converter/
 ## PREVIEW
 ![How to use](https://i.ibb.co/yys9kTG/currency-Con.gif)
@@ -7,7 +7,8 @@
 ## TECHNOLOGIES
 - HTML
 - CSS
-- JavaScript ES6+
+- javascript ES6+
 - BEM Convention
 - FLEX
-- Normalise.css
+- normalise.css
+- open graph

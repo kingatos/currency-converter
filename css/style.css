@@ -13,9 +13,9 @@ html {
     font-family: "Raleway", sans-serif;
     line-height: 1.5;
     text-align: center;
-    color:hsl(180, 22%, 13%); 
+    color:hsl(0, 0%, 0%); 
     font-size: 15px;
-    background-image: url("../background.jpg");
+    background-image: url("../background1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 2500px;
@@ -23,7 +23,7 @@ html {
 
 .main {
     margin: auto;
-    max-width: 500px;
+    max-width: 700px;
     padding: 100px 0;
 }
 

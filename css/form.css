@@ -6,71 +6,69 @@
 }
 
 .form__fieldset {
-    background-color:hsl(56, 38%, 61%);
+    background-color: hsla(54, 22%, 91%, 0.693);
     border-style: none;
-    border-radius: 5px;
     box-shadow: 10px -10px 19px -7px;
 }
 
 .form__legend {
-    padding:5px 10px;
-    background-color: coral;
-    border-radius: 5px;
+    padding: 15px 20px;
+    background-color: rgb(21, 199, 178);
+    font-size: 20px;
 }
 
 .form__label {
     font-weight: 400;
 }
 
-.form__labelText{
-    width: 160px;
+.form__labelText {
+    width: 200px;
     display: inline-block;
     margin-top: 10px;
     margin-right: 5px;
 }
 
 .form__result {
-    padding: 5px 10px;
-    background-color: coral;
-    border-radius: 5px;
+    font-size: 15px;
+}
+
+.result-background {
+    background: rgba(21, 199, 178, 0.892);
+    padding: 8px;
 }
 
 .form__input {
     padding: 5px 10px;
-    max-width: 100px;
-    border-radius: 5px;
-    background-color: bisque;
-    border: 1px solid grey;
+    max-width: 200px;
+    background-color: rgba(21, 199, 178, 0.792);
+    border: 1px grey;
 }
 
 .form__currency {
     padding: 5px 0;
-    max-width: 100px;
-    border-radius: 5px;
+    max-width: 200px;
     width: 100%;
-    background-color: bisque;
-    border: 1px solid grey;
+    background-color:  rgba(21, 199, 178, 0.792);
+    border: 1px grey;
 }
 
 .form__button {
-    padding: 5px 10px;
-    background-color: hsl(70, 199%, 89%);
-    border-radius: 5px;
-    border-top: 5px;
-    border-left: 5px;
+    padding: 15px 20px;
+    background-color: rgba(21, 199, 178, 0.892);
+    border: none;
 }
 
 .form__button:hover {
-    background-color: hsl(17, 100%, 81%);
+    background-color: rgba(16, 93, 84, 0.892);
 }
 
 .form__button:active {
-    background-color: hsl(17, 55%, 38%);
+    background-color: rgba(11, 46, 42, 0.892);
 }
 
 .form__currentRates {
     padding: 5px 0px;
     font-size: 15px;
-    text-align:right;
-    color:rgb(255, 255, 255);
+    text-align: right;
+    color: rgb(255, 255, 255);
 }

@@ -51,7 +51,9 @@
     
 
     const updateResultText = (resultElement, currencyFromElement, currencyToElement, amount, resultCurrency, ) => {
-        resultElement.innerText = `${calculateResult(currencyFromElement, currencyToElement, amount).toFixed(2)} ${resultCurrency}`;
+        const result = calculateResult(currencyFromElement, currencyToElement, amount).toFixed(2);
+        resultElement.classList.add("result-background");
+        resultElement.innerText = `${result} ${resultCurrency}`;
     };
        
     const onFormSubmit = () => {

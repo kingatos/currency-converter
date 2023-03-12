@@ -1,5 +1,5 @@
 # CURRENCY CONVERTER 💷💶💵  
-# ‼️ Attention.The given exchange rates are out of date ‼️
+# ‼️Attention.The given exchange rates are out of date‼️
 - by kingatos. || **DEMO**  -> https://kingatos.github.io/currency-converter/
 ## PREVIEW
 ![How to use](https://i.ibb.co/ncvdpXp/currency-Converter.gif)

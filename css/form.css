@@ -56,6 +56,7 @@
     padding: 15px 20px;
     background-color: rgba(21, 199, 178, 0.892);
     border: none;
+    cursor: pointer;
 }
 
 .form__button:hover {

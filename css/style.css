@@ -19,6 +19,7 @@ html {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 2500px;
+    word-break: break-all;
 }
 
 .main {
